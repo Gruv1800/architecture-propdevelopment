@@ -1,0 +1,10 @@
+# release_manager.yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  namespace: clever-apps-namespace
+  name: release_manager
+rules:
+  - apiGroups: [""]
+    resources: ["deployments", "replicasets"]
+    verbs: ["create", "delete", "patch"]

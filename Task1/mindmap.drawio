@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Страница — 1" id="C-eKSjLM-Rk2wiuaYTdf">
+    <mxGraphModel dx="1877" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-1" target="K_rXWSAAHu0PieQSRRX3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-1" target="K_rXWSAAHu0PieQSRRX3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-1" target="K_rXWSAAHu0PieQSRRX3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-1" target="K_rXWSAAHu0PieQSRRX3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-1" value="Безопастность данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-2" target="K_rXWSAAHu0PieQSRRX3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-2" value="Публичные данные" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-4" target="K_rXWSAAHu0PieQSRRX3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-4" value="Внутренние данные" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-5" target="K_rXWSAAHu0PieQSRRX3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-5" value="Конфиденциальные дан&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ные&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-6" target="K_rXWSAAHu0PieQSRRX3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-6" value="Секретные дан&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ные&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-16" target="K_rXWSAAHu0PieQSRRX3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-16" value="&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;Информация об объектах недвижимости (адрес, технические характеристики, кадастровый номер и т.п)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="432.5" width="290" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-18" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:12,0pt;&quot;&gt;Информация по услугам ЖКХ&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:12,0pt;&quot;&gt;Бухгалтерская документация&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="506.25" width="200" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-19" target="K_rXWSAAHu0PieQSRRX3-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-19" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:12,0pt;&quot;&gt;Клиентские данные&lt;br&gt;Данные о собственниках&lt;br&gt;Учетные данные&lt;br&gt;Сделки по объектам недвижимости&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-21" target="K_rXWSAAHu0PieQSRRX3-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-21" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:12,0pt;&quot;&gt;Информация о платежных транзакциях &lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:12,0pt;&quot;&gt;(включая реквизиты и данные платежных средств)&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-39" value="&lt;b&gt;Искажение данных &lt;/b&gt;- КРИТИЧЕСКИЙ&lt;div&gt;Клиенты могут получить недостоверную информацию по объектам недвижимости, что в свою очередь приведет к путанице, упущенной прибыли, совранным сделкам и снижению лояльности клиентов&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="410" width="393" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-41" value="&lt;b&gt;Искажение данных &lt;/b&gt;- ЗНАЧИТЕЛЬНЫЙ&lt;div&gt;Искажение бухгалтерских данных могут породить некорректную отчетность и последующие проблемы с гос. органами, что повлечет за собой штрафы и снижение репутации&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="507.5" width="393" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K_rXWSAAHu0PieQSRRX3-18" target="K_rXWSAAHu0PieQSRRX3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-43" value="&lt;b&gt;Утечка данных &lt;/b&gt;- КРИТИЧЕСКИЙ&lt;div&gt;Утечка персональных данных клиентов и собственников повлечет за собой наложение штрафов, снижение репутации и потере доверия клиентов.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="583.75" width="393" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rXWSAAHu0PieQSRRX3-45" value="&lt;b&gt;Утечка данных &lt;/b&gt;- КРИТИЧЕСКИЙ&lt;div&gt;Утечка секретных данных может привести к прямым финансовым потерям клиентов и компании&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="677.5" width="393" height="62.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
